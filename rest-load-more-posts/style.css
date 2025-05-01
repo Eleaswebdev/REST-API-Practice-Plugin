@@ -1,0 +1,19 @@
+#rest-posts-container .rest-post {
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 4px;
+}
+#rest-load-more {
+    background-color: #0073aa;
+    color: #fff;
+    padding: 10px 16px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+}
+#rest-load-more:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
