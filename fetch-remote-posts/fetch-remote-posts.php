@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Fetch Remote Posts via REST
+Plugin Name: Fetch Remote Posts Using wp_remote_get
 Description: Fetches posts from an external API using wp_remote_get() and displays via frontend using fetch().
 Version: 1.0
 Author: Eleas Kanchon
